@@ -109,8 +109,4 @@ Here, issues with On-chain blockchain can be solved by using off-chain blockchai
 
 <h2> Authors </h2>
 
-1. Name: Bhautik Sojitra
-Student Id: 7900140
-
-2. Name: Kabir Bhakta
-Student Id: 7900098
+1. Name:Sarvesh Singh
